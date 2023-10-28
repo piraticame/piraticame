@@ -6,7 +6,7 @@ Aspiring cyber security analyst/Backend Developer
 
 * 🌍  I'm based in Tagum City, Philippines
 * 🖥️  See my portfolio at [my Github](http://github.com/piraticame)
-* ✉️  You can contact me at [waweeslushhi11@gmail.com](mailto:waweeslushhi11@gmail.com)
+* ✉️  You can contact me at [howardglengloria@gmail.com](mailto:howardglengloria@gmail.com)
 * 🧠  I'm learning Operating Systems, Security, and Backend Development.
 * ⚡  Grind hard
 
