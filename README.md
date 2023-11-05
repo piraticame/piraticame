@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 Aspiring cyber security analyst/Backend Developer
----------------------------------
+--------------------------------
 
 * 🌍  I'm based in Tagum City, Philippines
 * 🖥️  See my portfolio at [my Github](http://github.com/piraticame)
